@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Chandana Sravani! 👋
 
-<!--
-**ChandanaSravani/ChandanaSravani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Senior .NET Full Stack Developer** with over 6 years of professional experience building scalable, cloud-native backend systems and modern web applications. I specialize in microservices architecture, domain-driven design, and cloud deployments.
 
-Here are some ideas to get you started:
+✈️ **Currently relocating to the Netherlands** (Open to new opportunities and eligible for the Highly Skilled Migrant/Kennismigrant visa process).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Tools
+
+- **Languages & Frameworks:** C#, .NET 8 / Core API, Angular, JavaScript
+- **Cloud & Event-Driven Architecture:** AWS (Certified Developer – Associate), Apache Kafka
+- **Databases:** Oracle, PL/SQL
+- **DevOps & Testing:** Docker, Git, TeamCity, Octopus, NUnit, Postman, Bruno
+- **Methodology:** Agile / Scrum
+
+---
+
+### 🚀 What I Do
+- **Backend Excellence:** Designing BIAN-aligned APIs and transitioning monolithic legacy systems into high-availability microservices.
+- **Event-Driven Systems:** Implementing real-time event streaming with Kafka for high-throughput messaging, logging, and fraud monitoring systems.
+- **Full-Stack Delivery:** Crafting robust backend APIs paired with clean, modular frontends using Angular.
+
+📫 **How to reach me:** [chandanasravani95@gmail.com](mailto:chandanasravani95@gmail.com) | [LinkedIn](https://www.linkedin.com/in/chandana-sravani-pentakota-2047b116a)
