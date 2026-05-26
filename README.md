@@ -1,24 +1,21 @@
-# Hi there, I'm Chandana Sravani! 👋
+# 💫 About Me:
+# Hi there, I'm Chandana Sravani! 👋<br><br>I am a **Senior .NET Full Stack Developer** with over 6 years of professional experience building scalable, cloud-native backend systems and modern web applications. I specialize in microservices architecture, domain-driven design, and cloud deployments.<br><br>✈️ **Currently relocating to the Netherlands** (Open to new opportunities and eligible for the Highly Skilled Migrant/Kennismigrant visa process).<br><br>---<br><br>### 🚀 What I Do<br>- **Backend Excellence:** Designing BIAN-aligned APIs and transitioning monolithic legacy systems into high-availability microservices.<br>- **Event-Driven Systems:** Implementing real-time event streaming with Kafka for high-throughput messaging, logging, and fraud monitoring systems.<br>- **Full-Stack Delivery:** Crafting robust backend APIs paired with clean, modular frontends using Angular.<br>
 
-I am a **Senior .NET Full Stack Developer** with over 6 years of professional experience building scalable, cloud-native backend systems and modern web applications. I specialize in microservices architecture, domain-driven design, and cloud deployments.
 
-✈️ **Currently relocating to the Netherlands** (Open to new opportunities and eligible for the Highly Skilled Migrant/Kennismigrant visa process).
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/CHANDANA SRAVANI PENTAKOTA) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chandanasravani95@gmail.com) 
+
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Octopus Deploy](https://img.shields.io/badge/octopus%20deploy-0D80D8?style=for-the-badge&logo=octopusdeploy&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=ChandanaSravani&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=ChandanaSravani&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ChandanaSravani&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ChandanaSravani&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+[![](https://komarev.com/ghpvc/?username=ChandanaSravani&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🛠️ Tech Stack & Tools
-
-- **Languages & Frameworks:** C#, .NET 8 / Core API, Angular, JavaScript
-- **Cloud & Event-Driven Architecture:** AWS (Certified Developer – Associate), Apache Kafka
-- **Databases:** Oracle, PL/SQL
-- **DevOps & Testing:** Docker, Git, TeamCity, Octopus, NUnit, Postman, Bruno
-- **Methodology:** Agile / Scrum
-
----
-
-### 🚀 What I Do
-- **Backend Excellence:** Designing BIAN-aligned APIs and transitioning monolithic legacy systems into high-availability microservices.
-- **Event-Driven Systems:** Implementing real-time event streaming with Kafka for high-throughput messaging, logging, and fraud monitoring systems.
-- **Full-Stack Delivery:** Crafting robust backend APIs paired with clean, modular frontends using Angular.
-
-📫 **How to reach me:** [chandanasravani95@gmail.com](mailto:chandanasravani95@gmail.com) | [LinkedIn](https://www.linkedin.com/in/chandana-sravani-pentakota-2047b116a)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
